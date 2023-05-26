@@ -10,4 +10,6 @@
 
 ![](http://profile-counter.glitch.me/zcmgod/count.svg)
 
+![](http://profile-counter.glitch.me/chgod099/count.svg)
+
 ![](http://moecount.glitch.me/get/@?theme=)
